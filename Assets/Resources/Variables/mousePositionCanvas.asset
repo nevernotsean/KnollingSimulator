@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef270154f84a74ec99f9ed9b78221282, type: 3}
   m_Name: mousePositionCanvas
   m_EditorClassIdentifier: 
-  _developerDescription: 
-  _value: {x: 0, y: 0}
-  _initialValue: {x: 0, y: 0}
-  _oldValue: {x: 0, y: 0}
+  DeveloperDescription: 
+  value: {x: 0, y: 0}
+  oldValue: {x: 0, y: 0}
   Changed: {fileID: 0}
   ChangedWithHistory: {fileID: 0}

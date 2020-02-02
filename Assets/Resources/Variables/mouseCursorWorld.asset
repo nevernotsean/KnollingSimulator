@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f55f45b69c744f129e378b498237378, type: 3}
   m_Name: mouseCursorWorld
   m_EditorClassIdentifier: 
-  _developerDescription: 
-  _value: {x: 0, y: 0, z: 0}
-  _initialValue: {x: 0, y: 0, z: 0}
-  _oldValue: {x: 0, y: 0, z: 0}
+  DeveloperDescription: 
+  value: {x: -0.062120706, y: 2.2195415, z: 16.59}
+  oldValue: {x: -0.06260041, y: 2.2195415, z: 16.59}
   Changed: {fileID: 0}
   ChangedWithHistory: {fileID: 0}
